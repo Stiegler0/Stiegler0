@@ -31,7 +31,7 @@ You can find more about my work in my [portfolio](Link to Your Portfolio).
 
 - 📧 Email: [Your Email Address](mailto:youremail@example.com)
 - 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
-- 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/yourusername)
+- 🐦 Twitter: [@YourTwitterHandle]([https://twitter.com/yourusername](https://twitter.com/KafkaYassine))
 
 Feel free to connect with me, and let's collaborate on exciting projects together!
 
