@@ -4,10 +4,10 @@ I'm a student at [EPITA](https://www.epita.fr/), a well-known engineering school
 ## About Me
 
 - 🌱 I'm currently learning [What You're Learning].
-- 💼 I work as a [Your Job Title] at [Your Company/Organization].
+- 💼 I work as a [Cybersecurity Apprentice] at [Your Company/Organization].
 - 🔭 I'm passionate about [Your Interests/Hobbies].
-- 📫 How to reach me: [Your Email Address] or [Your Website/Portfolio].
-- 😄 Pronouns: [Your Pronouns]
+- 📫 Reach me via linkedin
+
 
 ## My Projects
 
@@ -28,8 +28,6 @@ You can find more about my work in my [portfolio](Link to Your Portfolio).
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
 
 ## Let's Connect
-
-- 📧 Email: [Your Email Address](mailto:youremail@example.com)
 - 💼 LinkedIn: [JEMLAOUI Yassine](https://www.linkedin.com/in/yassine-jemlaoui-a4bb8b202/)
 - 🐦 Twitter: [@KafkaYassine](https://twitter.com/KafkaYassine)
 
