@@ -1,7 +1,6 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm JEMLAOUI Yassine, AKA Stiegler0 👋
 
-Welcome to my GitHub profile! I'm a [Your Profession/Interests] based in [Your Location]. Here, you'll find a collection of my projects, contributions, and interests. Feel free to explore, learn, and collaborate with me.
-
+I'm a student at [EPITA](https://www.epita.fr/), a well-known engineering school located in Paris, France. Welcome to my GitHub profile! Here, you'll find a collection of my projects, contributions, and interests. Feel free to explore, learn, and collaborate with me.
 ## About Me
 
 - 🌱 I'm currently learning [What You're Learning].
