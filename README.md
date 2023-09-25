@@ -30,7 +30,7 @@ You can find more about my work in my [portfolio](Link to Your Portfolio).
 ## Let's Connect
 
 - 📧 Email: [Your Email Address](mailto:youremail@example.com)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
+- 💼 LinkedIn: [JEMLAOUI Yassine](https://www.linkedin.com/in/yassine-jemlaoui-a4bb8b202/)
 - 🐦 Twitter: [@KafkaYassine](https://twitter.com/KafkaYassine)
 
 Feel free to connect with me, and let's collaborate on exciting projects together!
