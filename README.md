@@ -4,7 +4,7 @@ I'm a student at [EPITA](https://www.epita.fr/), a well-known engineering school
 ## About Me
 
 - 🌱 I'm currently learning [What You're Learning].
-- 💼 I work as a [Cybersecurity Apprentice] at [Your Company/Organization].
+- 💼 I work as a #Cybersecurity Apprentice at [Your Company/Organization].
 - 🔭 I'm passionate about [Your Interests/Hobbies].
 - 📫 Reach me via linkedin
 
