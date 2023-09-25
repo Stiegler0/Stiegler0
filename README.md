@@ -14,14 +14,13 @@ I'm a student at [EPITA](https://www.epita.fr/), a well-known engineering school
 Here are some of the projects I'm proud of:
 
 - [Project 1 Name](Link to Project 1): Short project description.
-- [Project 2 Name](Link to Project 2): Short project description.
-- [Project 3 Name](Link to Project 3): Short project description.
+
 
 You can find more about my work in my [portfolio](Link to Your Portfolio).
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stiegler0&show_icons=true&theme=dark)
 
 ## Most Used Languages
 
