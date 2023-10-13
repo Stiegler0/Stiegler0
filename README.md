@@ -1,6 +1,6 @@
 # Hello, I'm JEMLAOUI Yassine, AKA Stiegler0 👋
 
-I'm a student at [EPITA](https://www.epita.fr/), a well-known engineering school located in Paris, France. Welcome to my GitHub profile! Here, you'll find a collection of my projects, contributions, and interests. Feel free to explore, learn, and collaborate with me.
+I'm a student at [Université Paris Cité](https://u-paris.fr/en/), a well-known univesrity located in Paris, France. Welcome to my GitHub profile! Here, you'll find a collection of my projects, contributions, and interests. Feel free to explore, learn, and collaborate with me.
 ## About Me
 
 - 🌱 I'm currently learning [What You're Learning].
@@ -28,7 +28,6 @@ You can find more about my work in my [portfolio](Link to Your Portfolio).
 
 ## Let's Connect
 - 💼 LinkedIn: [JEMLAOUI Yassine](https://www.linkedin.com/in/yassine-jemlaoui-a4bb8b202/)
-- 🐦 Twitter: [@KafkaYassine](https://twitter.com/KafkaYassine)
 
 Feel free to connect with me, and let's collaborate on exciting projects together!
 
