@@ -3,9 +3,8 @@
 I'm a student at [Université Paris Cité](https://u-paris.fr/en/), a well-known univesrity located in Paris, France. Welcome to my GitHub profile! Here, you'll find a collection of my projects, contributions, and interests. Feel free to explore, learn, and collaborate with me.
 ## About Me
 
-- 🌱 I'm currently learning [What You're Learning].
-- 💼 I work as a #Cybersecurity Apprentice at [Your Company/Organization].
-- 🔭 I'm passionate about [Your Interests/Hobbies].
+- 🌱 I'm currently learning Java environment, Spring boot.
+- 🔭 I'm passionate about Java apps neural networks, .
 - 📫 Reach me via linkedin
 
 
