@@ -12,7 +12,7 @@ I'm a student at [Université Paris Cité](https://u-paris.fr/en/), a well-known
 
 Here are some of the projects I'm proud of:
 
-- [Project 1 Name](Link to Project 1): Short project description.
+- [gulf-diabetes-prediction](https://github.com/Stiegler0/gulf-diabetes-prediction): 
 
 
 You can find more about my work in my [portfolio](Link to Your Portfolio).
