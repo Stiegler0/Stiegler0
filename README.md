@@ -4,7 +4,7 @@ I'm a student at [Université Paris Cité](https://u-paris.fr/en/), a well-known
 ## About Me
 
 - 🌱 I'm currently learning Java environment, Spring boot.
-- 🔭 I'm passionate about Java apps neural networks, .
+- 🔭 I'm passionate about Java apps, neural networks, and Søren Kierkegaard writings .
 - 📫 Reach me via linkedin
 
 
