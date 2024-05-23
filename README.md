@@ -3,8 +3,10 @@
 I'm a student at [Université Paris Cité](https://u-paris.fr/en/), a well-known univesrity located in Paris, France. Welcome to my GitHub profile! Here, you'll find a collection of my projects, contributions, and interests. Feel free to explore, learn, and collaborate with me.
 ## About Me
 
-- 🌱 I'm currently learning Java environment, Spring boot.
-- 🔭 I'm passionate about Java apps, neural networks, and Søren Kierkegaard writings .
+- 🔒 Currently delving deeper into the realms of cybersecurity and ethical hacking, sharpening my skills and knowledge.
+- 🛠️ Working on a Python tool that utilizes statistical methods to assign reputation scores to IP addresses extracted from logs, enhancing network security.
+- 🇲🇦 Proud Moroccan patriot
+- 🔭 I'm passionate about Python, neural networks, and Søren Kierkegaard writings .
 - 📫 Reach me via linkedin
 
 
