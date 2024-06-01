@@ -5,7 +5,7 @@ I'm a student at [Université Paris Cité](https://u-paris.fr/en/), a well-known
 
 - 🔒 Currently delving deeper into the realms of cybersecurity and ethical hacking, sharpening my skills and knowledge.
 - 🛠️ Working on a Python tool that utilizes statistical methods to assign reputation scores to IP addresses extracted from logs, enhancing network security.
-- 🇲🇦 Proud Moroccan patriot
+- 🇲🇦 Proud Moroccan 
 - 🔭 I'm passionate about Python, neural networks, and Søren Kierkegaard writings .
 - 📫 Reach me via linkedin
 
